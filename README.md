@@ -8,7 +8,6 @@ You can also call me "New".\
 I’m currently a 3rd-year student in Data Science and Innovation Field at Thammasat University.
 
 * 🌍  I'm based in Bangkok, Thailand
-* 🤝  I'm open to collaborating on Data Science Internship
 * ⚡  I'm interested in Data Science and Technology
 
 ### Skills
