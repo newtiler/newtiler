@@ -5,7 +5,7 @@ Data Science Student
 --------------------
 
 You can also call me "New".\
-I’m currently a 3rd-year student in Data Science and Innovation Field at Thammasat University.
+I’m a fresh graduate student who wants to work in Data Science.
 
 * 🌍  I'm based in Bangkok, Thailand
 * ⚡  I'm interested in Data Science and Technology
